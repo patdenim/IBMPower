@@ -57,6 +57,6 @@ resource "openstack_compute_instance_v2" "sinlge-vm" {
   }
 }
 
-output "sinlge-vm-ip" {
+output "single-vm-ip" {
   value = "${openstack_compute_instance_v2.single-vm.*.network.0.fixed_ip_v4}"
 }
