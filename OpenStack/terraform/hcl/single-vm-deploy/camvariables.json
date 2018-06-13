@@ -35,7 +35,7 @@
       "secured": false,
       "required": true,
       "immutable": false,
-      "group_name": "environment"
+      "group_name": "environment"           
     },
     {
       "name":  "openstack_image_id",
@@ -47,6 +47,7 @@
       "required": true,
       "immutable": false,
       "group_name": "virtualmachine"
+      "default": "0d6f8859-8f7a-4aa1-97c5-6a4f0b6976cc"
     },
     {
       "name":  "number_of_instances",
@@ -69,6 +70,7 @@
       "required": true,
       "immutable": false,
       "group_name": "virtualmachine"
+      "default": "682028de-c581-4596-b7fb-f3b7fe88bca8"
     },
     {
       "name":  "openstack_network_name",
@@ -80,6 +82,7 @@
       "required": true,
       "immutable": false,
       "group_name": "virtualmachine"
+      "default": "CAMNetwork"
     },
     {
       "name":  "image_id_username",
