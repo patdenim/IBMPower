@@ -49,7 +49,7 @@
       },
       {
         "title": "Usage and special notes",
-        "description": "<ul><li>1. Creates N+1 virtual servers in a Openstack - IBM PowerVC environment specified by the user.</li><li>2. Deployment takes approximately 10 minutes to complete.</li></ul>"
+        "description": "<ul><li>1. Creates 1 virtual server in a Openstack - IBM PowerVC environment specified by the user.</li><li>2. Deployment takes approximately 5 minutes to complete.</li></ul>"
       }
      ],
      "featuredImageUrl": "https://ibmpatternengine-staticcontent-prod.eu-gb.mybluemix.net/ic_patternengine_50.png",
