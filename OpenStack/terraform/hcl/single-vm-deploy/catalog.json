@@ -37,7 +37,7 @@
       },
       {
         "title": "Operating systems supported",
-        "description": "vmware: Ubuntu 14.4.01 x64"
+        "description": "IBM PowerVM: SLES12 SP1"
       },
       {
         "title": "Topology",
@@ -45,7 +45,7 @@
       },
       {
         "title": "Default virtual machine settings",
-        "description": "<ul><li>Openstack:<ul style=\"margin-left: 20px;\"><li>Ubuntu 16.04</li><ul style=\"margin-left: 20px;\"><li>Flavor: Cores = 1, Memory = 1GB, Storage = 25GB SAN</li><li>Network: Private IP - Computed, Public IP - Computed</li></ul></ul>"
+        "description": "<ul><li>Openstack:<ul style=\"margin-left: 20px;\"><li>SLES12 SP1</li><ul style=\"margin-left: 20px;\"><li>Flavor: Cores = 2, Memory = 24GB, Storage = 50GB SAN</li><li>Network: Private IP - Computed, Public IP - Computed</li></ul></ul>"
       },
       {
         "title": "Usage and special notes",
